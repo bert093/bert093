@@ -5,7 +5,7 @@ I love everything related to technology, from software development to exploring 
 ## Contact
 My Discord Server: https://discord.gg/WQMWwWGC
 
-## About
+## About Me
 I was born in Indonesia (so I mostly use Indonesian).
 <!--
 **bert093/bert093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
