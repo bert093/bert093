@@ -2,6 +2,12 @@
 I'm **bert093**. 
 I love everything related to technology, from software development to exploring the latest trends in IT. Here, you'll find projects that reflect my interests in app development, songs, programming, and there are even tips. Feel free to explore my repository or collaborate on interesting projects!!! I'm very happy if anyone gives me advice on the projects I create🚀
 
+I'm **bert093**. 
+I love everything related to technology, from software development to exploring the latest trends in IT. Here, you'll find projects that reflect my interests in app development, programming, and there are even tips. Feel free to explore my repository or collaborate on interesting projects!!! I'm very happy if anyone gives me advice on the projects I create🚀
+
+I also like the ui/ux design thing. because I want to make things that look different and better than others. when I see ui design on pinterest, there must be something good that makes me speechless. And I want to know how they make that "thing" so good.
+
+
 ## Contact
 My Discord Server: https://discord.gg/WQMWwWGC
 
