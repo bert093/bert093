@@ -1,18 +1,18 @@
 ## Hello!
-I'm **bert093**. 
-I love everything related to technology, from software development to exploring the latest trends in IT. Here, you'll find projects that reflect my interests in app development, programming, and there are even tips. Feel free to explore my repository or collaborate on interesting projects!!! I'm very happy if anyone gives me advice on the projects I create🚀
 
-I also like the ui/ux design thing. because 
-I want to make things that look different and better than others. when I see ui design on pinterest, there must be something good that makes me speechless. And I want to know how they make the "thing" so good. by preparing only images and colours.
+I'm **bert093**. I love everything related to technology, from software development to exploring the latest trends in IT. Here, you'll find projects that reflect my interests in app development and programming, and there are even tips. Feel free to explore my repository or collaborate on interesting projects! I'm very happy if anyone gives me advice on the projects I create 🚀.
+
+I also like UI/UX design because I want to make things that look different and better than others. When I see UI design on Pinterest, there is always something that makes me speechless. I want to know how they create such impressive designs using only images and colors.
 
 ## Contact
-My Discord Server: https://discord.gg/WQMWwWGC
+My Discord Server: [https://discord.gg/WQMWwWGC](https://discord.gg/WQMWwWGC)
 
 ## About Me
-I was born in Indonesia (so I mostly use Indonesian).
+I was born in Indonesia, so I mostly use Indonesian.
 
-## Current education:
-College at Bumigora University Second semester.
+## Current Education:
+College at Bumigora University, Second semester.
+
 <!--
 **bert093/bert093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
