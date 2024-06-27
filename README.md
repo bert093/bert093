@@ -3,7 +3,7 @@ I'm **bert093**.
 I love everything related to technology, from software development to exploring the latest trends in IT. Here, you'll find projects that reflect my interests in app development, songs, programming, and there are even tips. Feel free to explore my repository or collaborate on interesting projects!!! I'm very happy if anyone gives me advice on the projects I create🚀
 
 ## Contact
-My Discord Server: 
+My Discord Server: https://discord.gg/WQMWwWGC
 
 ## About
 I was born in Indonesia (so I mostly use Indonesian).
