@@ -11,7 +11,7 @@ My Discord Server: [https://discord.gg/WQMWwWGC](https://discord.gg/WQMWwWGC)
 I was born in Indonesia, so I mostly use Indonesian.
 
 ## Current Education:
-College at Bumigora University, Second semester.
+College at Bumigora University.
 
 <!--
 **bert093/bert093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
