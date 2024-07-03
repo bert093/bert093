@@ -2,7 +2,7 @@
 
 I'm **bert093**. I love everything related to technology, from software development to exploring the latest trends in IT. Here, you'll find projects that reflect my interests in app development and programming, and there are even tips. Feel free to explore my repository or collaborate on interesting projects! I'm very happy if anyone gives me advice on the projects I create 🚀.
 
-I also like UI/UX design because I want to make things that look different and better than others. When I see UI design on Pinterest, there is always something that makes me speechless. I want to know how they create such impressive designs using only images and colors.
+I also love UI/UX design because I want to create something that looks different and interesting to look at. When I see UI designs on Pinterest, there's always something that leaves me speechless. I want to know how they create such impressive designs using only images and colors.
 
 ## Contact
 My Discord Server: [https://discord.gg/WQMWwWGC](https://discord.gg/WQMWwWGC)
