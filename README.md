@@ -5,7 +5,7 @@ I'm **bert093**. I love everything related to technology, from software developm
 I also love UI/UX design because I want to create something that looks different and interesting to look at. When I see UI designs on Pinterest, there's always something that leaves me speechless. I want to know how they create such impressive designs using only images and colors.
 
 ## Contact
-My Discord Server: [https://discord.gg/WQMWwWGC](https://discord.gg/WQMWwWGC)
+My Discord Server: [https://discord.gg/8QtwqcZDay]
 
 ## About Me
 I was born in Indonesia, so I mostly use Indonesian.
