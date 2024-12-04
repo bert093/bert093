@@ -1,4 +1,4 @@
-## Hello!
+<!-- ## Hello!
 
 I'm **bert093**. I love everything related to technology, from software development to exploring the latest trends in IT. Here, you'll find projects that reflect my interests in app development and programming, and there are even tips. Feel free to explore my repository or collaborate on interesting projects! I'm very happy if anyone gives me advice on the projects I create 🚀.
 
@@ -8,7 +8,6 @@ My Discord Server: https://discord.gg/8QtwqcZDay
 ## About Me
 I was born in Indonesia, so I mostly use Indonesian.
 
-<!--
 **bert093/bert093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
