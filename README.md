@@ -3,7 +3,7 @@
     <h3>👋 Hi there, I'm bert093!</h4>
     <hr>
 </div>
-I'm a Computer Science student at Universitas Bumigora, Indonesia, with a strong passion for both technology and music. I enjoy exploring new things, especially in software development, open-source projects, and digital music creation.<br>GitHub is where I share my projects, learn from the community, and document my journey in tech.
+I'm a Computer Science student at Bumigora University, indonesia, with a strong passion for both technology and music. I enjoy exploring new things, especially in software development, open-source projects, and digital music creation.<br>GitHub is where I share my projects, learn from the community, and document my journey in tech.
 
 
 #### 🌐 Socials:
