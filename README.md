@@ -3,6 +3,7 @@
     <h3>👋 Hi there, I'm bert093!</h4>
     <hr>
 </div>
+![Profile views](https://komarev.com/ghpvc/?username=bert093&style=for-the-badge)<br>
 I'm a Computer Science student at Bumigora University, indonesia, with a strong passion for both technology and music. I enjoy exploring new things, especially in software development, open-source projects, and digital music creation.<br>GitHub is where I share my projects, learn from the community, and document my journey in tech.
 
 
@@ -19,8 +20,5 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bert093&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=bert093&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
