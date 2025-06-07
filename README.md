@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>👋 Hi there, I'm bert093!</h4>
+    <h3>👋 Hi there, I'm bert093!</h4>
     <hr>
 </div>
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
