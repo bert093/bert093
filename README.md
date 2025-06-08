@@ -37,4 +37,7 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bert093&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+#### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bert093&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
