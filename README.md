@@ -27,54 +27,6 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-🌆 Daytime                19 commits          ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-🌃 Evening                43 commits          █████████████░░░░░░░░░░░░   51.19 % 
-🌙 Night                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   16 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Tuesday                  9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Wednesday                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Friday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Saturday                 13 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Sunday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-CSS                      9 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.38 % 
-HTML                     7 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-Blender                  6 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Python                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 43 mins      ███████████████████░░░░░░   75.76 % 
-Blender                  6 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-
-💻 Operating System: 
-Windows                  26 hrs 2 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in CSS** 
-
-```text
-CSS                      3 repos             ███████████████░░░░░░░░░░   60.00 % 
-Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
