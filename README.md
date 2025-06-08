@@ -26,6 +26,9 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 #### 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,java,php,netlify,supabase,md,git,vscode,linux,ubuntu,debian,redhat&perline=9)](https://skillicons.dev)
 
