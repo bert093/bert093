@@ -27,6 +27,38 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 388.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 122 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 33 Private Repositories 
+ > 
+**I Mostly Code in Dart** 
+
+```text
+Dart                     8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+C++                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+AutoHotkey               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/06/2025 16:04:14 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
