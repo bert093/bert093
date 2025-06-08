@@ -27,13 +27,13 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 388.8 kB Used in GitHub's Storage 
  > 
-> 🏆 122 Contributions in the Year 2025
+> 🏆 124 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -41,6 +41,45 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
  > 
 > 🔑 33 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                202 commits         ████████░░░░░░░░░░░░░░░░░   33.84 % 
+🌆 Daytime                169 commits         ███████░░░░░░░░░░░░░░░░░░   28.31 % 
+🌃 Evening                220 commits         █████████░░░░░░░░░░░░░░░░   36.85 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Wednesday                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Thursday                 118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Friday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Saturday                 115 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Sunday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+CSS                      0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+XenoAudio                0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -58,7 +97,7 @@ AutoHotkey               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2025 16:04:14 UTC
+ Last Updated on 08/06/2025 16:20:32 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
