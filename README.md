@@ -24,6 +24,7 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 <a href="mailto:sas992203@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+   <br></br>
 </a>
 
 <!--START_SECTION:waka-->
