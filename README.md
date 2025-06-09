@@ -27,36 +27,24 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 388.8 kB Used in GitHub's Storage 
- > 
-> 🏆 122 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                202 commits         ████████░░░░░░░░░░░░░░░░░   33.61 % 
-🌆 Daytime                169 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-🌃 Evening                220 commits         █████████░░░░░░░░░░░░░░░░   36.61 % 
-🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+🌞 Morning                207 commits         █████████░░░░░░░░░░░░░░░░   34.16 % 
+🌆 Daytime                169 commits         ███████░░░░░░░░░░░░░░░░░░   27.89 % 
+🌃 Evening                220 commits         █████████░░░░░░░░░░░░░░░░   36.30 % 
+🌙 Night                  10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Wednesday                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Thursday                 118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Friday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Saturday                 115 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Sunday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Monday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Wednesday                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Thursday                 118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Friday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Saturday                 115 commits         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+Sunday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 ```
 
 
@@ -78,20 +66,8 @@ XenoAudio                0 secs              ███████████�
 Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Dart** 
 
-```text
-Dart                     8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-C++                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-AutoHotkey               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
-
-
-
-
- Last Updated on 08/06/2025 18:45:08 UTC
+ Last Updated on 09/06/2025 01:23:54 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
