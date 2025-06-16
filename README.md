@@ -6,6 +6,9 @@
     <img src="https://komarev.com/ghpvc/?username=bert093&style=flat">
 </a>
 <br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bhyihjspwh4v0i95mpgy21teo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff80ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bhyihjspwh4v0i95mpgy21teo&redirect=true)
+
 I'm a Computer Science student at Bumigora University, indonesia, with a strong passion for both technology and music. I enjoy exploring new things, especially in software development, open-source projects, and digital music creation.<br>GitHub is where I share my projects, learn from the community, and document my journey in tech.
 
 
