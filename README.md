@@ -34,21 +34,21 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                247 commits         █████████░░░░░░░░░░░░░░░░   34.26 % 
-🌆 Daytime                217 commits         ████████░░░░░░░░░░░░░░░░░   30.10 % 
-🌃 Evening                245 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+🌞 Morning                247 commits         ████████░░░░░░░░░░░░░░░░░   33.93 % 
+🌆 Daytime                217 commits         ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+🌃 Evening                252 commits         █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Tuesday                  104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Wednesday                82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Thursday                 128 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Friday                   132 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Saturday                 135 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
-Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Monday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Tuesday                  111 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Wednesday                82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Thursday                 128 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Friday                   132 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Saturday                 135 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 ```
 
 
@@ -58,28 +58,28 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-XML                      1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-PHP                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Python                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Docker                   1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Java                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+XML                      1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Python                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Docker                   1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+PHP                      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Java                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-demo_grpc_project        3 hrs 22 mins       ████████████░░░░░░░░░░░░░   49.11 % 
-Belajar-Python           1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-pweb                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-projectku                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-minify_obfuscate         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+demo_grpc_project        3 hrs 53 mins       ███████████████░░░░░░░░░░   58.13 % 
+Belajar-Python           1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+pweb                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+minify_obfuscate         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+AdminLTE                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 💻 Operating System: 
-Windows                  6 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/06/2025 18:49:21 UTC
+ Last Updated on 24/06/2025 11:32:41 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
