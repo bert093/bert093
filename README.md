@@ -58,28 +58,28 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-XML                      1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-Python                   1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Docker                   1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-PHP                      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Java                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+PHP                      3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+XML                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Markdown                 1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Python                   1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Docker                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-demo_grpc_project        3 hrs 53 mins       ███████████████░░░░░░░░░░   58.13 % 
-Belajar-Python           1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-pweb                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-minify_obfuscate         16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-AdminLTE                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+demo_grpc_project        4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.75 % 
+projectku                2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+pweb                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Belajar-Python           1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+XenoAudio-Project        50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
 
 💻 Operating System: 
-Windows                  6 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/06/2025 18:48:48 UTC
+ Last Updated on 25/06/2025 18:49:49 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
