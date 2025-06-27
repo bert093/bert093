@@ -58,29 +58,29 @@ Sunday                   76 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-PHP                      3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.11 % 
-Java                     1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Markdown                 1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Docker                   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-XML                      1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+PHP                      4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+Java                     2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+CSS                      1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Docker                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 
 🔥 Editors: 
-VS Code                  11 hrs              █████████████████████████   100.00 % 
+VS Code                  14 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-demo_grpc_project        4 hrs 58 mins       ███████████░░░░░░░░░░░░░░   45.20 % 
-projectku                2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-pweb                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Belajar-Python           59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-XenoAudio-Project        50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+demo_grpc_project        6 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.54 % 
+projectku                5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.62 % 
+pweb                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+XenoAudio-Project        50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Belajar-Python           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 💻 Operating System: 
-Windows                  9 hrs 23 mins       █████████████████████░░░░   85.27 % 
-Linux                    1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Windows                  12 hrs 39 mins      ██████████████████████░░░   86.61 % 
+Linux                    1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 ```
 
 
- Last Updated on 26/06/2025 18:48:48 UTC
+ Last Updated on 27/06/2025 18:47:57 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
