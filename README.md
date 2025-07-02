@@ -31,8 +31,56 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 01/07/2025 18:48:10 UTC
+```text
+🌞 Morning                263 commits         █████████░░░░░░░░░░░░░░░░   35.07 % 
+🌆 Daytime                219 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+🌃 Evening                256 commits         █████████░░░░░░░░░░░░░░░░   34.13 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Tuesday                  114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Thursday                 128 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Saturday                 139 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Sunday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+PHP                      9 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.82 % 
+CSS                      6 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Markdown                 2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Java                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+JavaScript               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+
+🔥 Editors: 
+VS Code                  26 hrs 27 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+projectku                18 hrs 21 mins      █████████████████░░░░░░░░   69.42 % 
+demo_grpc_project        3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+pweb                     2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+XenoAudio-Project        1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Belajar-Python           27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+
+💻 Operating System: 
+Windows                  24 hrs 29 mins      ███████████████████████░░   92.60 % 
+Linux                    1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+```
+
+
+ Last Updated on 02/07/2025 18:48:44 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
