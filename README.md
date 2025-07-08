@@ -34,21 +34,21 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                263 commits         █████████░░░░░░░░░░░░░░░░   34.97 % 
-🌆 Daytime                221 commits         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-🌃 Evening                256 commits         █████████░░░░░░░░░░░░░░░░   34.04 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+🌞 Morning                264 commits         █████████░░░░░░░░░░░░░░░░   35.06 % 
+🌆 Daytime                221 commits         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+🌃 Evening                256 commits         ████████░░░░░░░░░░░░░░░░░   34.00 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Tuesday                  114 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Thursday                 128 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Saturday                 141 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Sunday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Tuesday                  115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Thursday                 128 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+Saturday                 141 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
+Sunday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 ```
 
 
@@ -58,29 +58,29 @@ Sunday                   82 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-PHP                      8 hrs 48 mins       █████████████░░░░░░░░░░░░   52.68 % 
-CSS                      3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-JavaScript               1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Markdown                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+PHP                      6 hrs 56 mins       ██████████████░░░░░░░░░░░   55.94 % 
+CSS                      2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+JavaScript               1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-projectku                12 hrs 43 mins      ███████████████████░░░░░░   76.01 % 
-pweb                     2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-XenoAudio-Project        1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Homepage                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Portofolio Website       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+projectku                9 hrs 24 mins       ███████████████████░░░░░░   75.82 % 
+pweb                     2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Homepage                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+XenoAudio-Project        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Portofolio Website       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Windows                  16 hrs 23 mins      ████████████████████████░   97.99 % 
-Linux                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Windows                  12 hrs 4 mins       ████████████████████████░   97.30 % 
+Linux                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
- Last Updated on 07/07/2025 18:49:08 UTC
+ Last Updated on 08/07/2025 18:50:04 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
