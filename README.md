@@ -34,21 +34,21 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                264 commits         █████████░░░░░░░░░░░░░░░░   35.01 % 
-🌆 Daytime                221 commits         ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌃 Evening                257 commits         █████████░░░░░░░░░░░░░░░░   34.08 % 
+🌞 Morning                264 commits         █████████░░░░░░░░░░░░░░░░   34.97 % 
+🌆 Daytime                222 commits         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌃 Evening                257 commits         █████████░░░░░░░░░░░░░░░░   34.04 % 
 🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Tuesday                  115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Thursday                 128 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Saturday                 141 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Sunday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Tuesday                  115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Saturday                 141 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Sunday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 ```
 
 
@@ -58,29 +58,26 @@ Sunday                   82 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-PHP                      4 hrs 14 mins       █████████████░░░░░░░░░░░░   50.49 % 
-CSS                      3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.32 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+PHP                      4 hrs 21 mins       █████████████░░░░░░░░░░░░   53.09 % 
+CSS                      3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.22 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-projectku                7 hrs 31 mins       ██████████████████████░░░   89.40 % 
-pweb                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Homepage                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Portofolio Website       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-XenoAudio-Project        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+projectku                7 hrs 44 mins       ████████████████████████░   94.21 % 
+pweb                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Portofolio Website       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 💻 Operating System: 
-Windows                  8 hrs 4 mins        ████████████████████████░   96.01 % 
-Linux                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Windows                  8 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/07/2025 18:50:17 UTC
+ Last Updated on 10/07/2025 18:49:33 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
