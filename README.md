@@ -58,26 +58,26 @@ Sunday                   82 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-PHP                      4 hrs 21 mins       █████████████░░░░░░░░░░░░   53.09 % 
-CSS                      3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.22 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+PHP                      5 hrs 37 mins       ██████████████░░░░░░░░░░░   54.76 % 
+CSS                      4 hrs               ██████████░░░░░░░░░░░░░░░   38.97 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Caddyfile                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-projectku                7 hrs 44 mins       ████████████████████████░   94.21 % 
-pweb                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Portofolio Website       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+projectku                9 hrs 48 mins       ████████████████████████░   95.37 % 
+pweb                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Portofolio Website       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 💻 Operating System: 
-Windows                  8 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/07/2025 18:49:33 UTC
+ Last Updated on 11/07/2025 18:49:09 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
