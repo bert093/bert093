@@ -34,21 +34,21 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                264 commits         █████████░░░░░░░░░░░░░░░░   34.97 % 
-🌆 Daytime                222 commits         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-🌃 Evening                257 commits         █████████░░░░░░░░░░░░░░░░   34.04 % 
+🌞 Morning                268 commits         █████████░░░░░░░░░░░░░░░░   35.50 % 
+🌆 Daytime                220 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌃 Evening                255 commits         ████████░░░░░░░░░░░░░░░░░   33.77 % 
 🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Monday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 Tuesday                  115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
 Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
 Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
 Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
-Saturday                 141 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
-Sunday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Saturday                 145 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Sunday                   80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 ```
 
 
@@ -58,26 +58,28 @@ Sunday                   82 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-PHP                      5 hrs 37 mins       ██████████████░░░░░░░░░░░   54.76 % 
-CSS                      4 hrs               ██████████░░░░░░░░░░░░░░░   38.97 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Caddyfile                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+PHP                      5 hrs 24 mins       █████████████░░░░░░░░░░░░   50.61 % 
+CSS                      4 hrs               █████████░░░░░░░░░░░░░░░░   37.52 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-projectku                9 hrs 48 mins       ████████████████████████░   95.37 % 
-pweb                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Portofolio Website       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+projectku                9 hrs 57 mins       ███████████████████████░░   93.31 % 
+belajar_react            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+ReactNative              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+github_style             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Portofolio Website       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Windows                  10 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/07/2025 18:49:09 UTC
+ Last Updated on 12/07/2025 18:46:42 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
