@@ -34,21 +34,21 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                270 commits         █████████░░░░░░░░░░░░░░░░   35.67 % 
-🌆 Daytime                220 commits         ███████░░░░░░░░░░░░░░░░░░   29.06 % 
-🌃 Evening                255 commits         ████████░░░░░░░░░░░░░░░░░   33.69 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+🌞 Morning                270 commits         █████████░░░░░░░░░░░░░░░░   35.62 % 
+🌆 Daytime                220 commits         ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+🌃 Evening                256 commits         ████████░░░░░░░░░░░░░░░░░   33.77 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Tuesday                  115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Saturday                 145 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Sunday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Monday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Tuesday                  115 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Saturday                 145 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Sunday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 ```
 
 
@@ -58,27 +58,28 @@ Sunday                   82 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-CSS                      3 hrs 53 mins       ████████████░░░░░░░░░░░░░   48.15 % 
-PHP                      3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.22 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+CSS                      6 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.50 % 
+PHP                      4 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.64 % 
+HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  13 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-projectku                7 hrs 28 mins       ███████████████████████░░   92.31 % 
-belajar_react            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-ReactNative              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-github_style             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+projectku                11 hrs 1 min        ████████████████████░░░░░   80.96 % 
+ProfilePageLink          1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+belajar_react            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+ReactNative              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+github_style             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Windows                  8 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  13 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2025 18:46:40 UTC
+ Last Updated on 14/07/2025 18:52:56 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
