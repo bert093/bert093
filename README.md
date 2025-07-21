@@ -58,28 +58,28 @@ Sunday                   84 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-CSS                      6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-PHP                      5 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-Python                   4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-TypeScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Python                   4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+PHP                      4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+CSS                      3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+TypeScript               1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-projectku                12 hrs 53 mins      ███████████████░░░░░░░░░░   59.33 % 
-Belajar-Python           4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-ProfilePageLink          1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-react-nextjs-typescript  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-belajar-ReactNative-tahun42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+projectku                9 hrs 20 mins       ██████████████░░░░░░░░░░░   57.64 % 
+Belajar-Python           4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+react-nextjs-typescript  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+belajar-ReactNative-tahun42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+reactnative-typescriptbla21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Windows                  21 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/07/2025 18:48:03 UTC
+ Last Updated on 21/07/2025 18:52:22 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
