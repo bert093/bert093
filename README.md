@@ -31,8 +31,56 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 30/07/2025 18:53:09 UTC
+```text
+🌞 Morning                287 commits         █████████░░░░░░░░░░░░░░░░   36.19 % 
+🌆 Daytime                227 commits         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+🌃 Evening                267 commits         ████████░░░░░░░░░░░░░░░░░   33.67 % 
+🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Tuesday                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Thursday                 131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Saturday                 156 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+TypeScript               11 hrs 43 mins      █████████████████░░░░░░░░   67.83 % 
+JSON                     3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Git Config               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+CSS                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+
+🔥 Editors: 
+VS Code                  17 hrs 17 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+time-react-native        6 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.70 % 
+realtimechat-supabase    4 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+mitsukiyo-project        2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+testing                  2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+vscode-config            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+
+💻 Operating System: 
+Windows                  11 hrs 4 mins       ████████████████░░░░░░░░░   63.99 % 
+Linux                    6 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   36.01 % 
+```
+
+
+ Last Updated on 31/07/2025 18:53:33 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
