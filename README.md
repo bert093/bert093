@@ -58,29 +58,28 @@ Sunday                   86 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               7 hrs 4 mins        ███████████████░░░░░░░░░░   59.99 % 
-JSON                     3 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Markdown                 1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Git Config               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+TypeScript               4 hrs 22 mins       █████████████░░░░░░░░░░░░   51.92 % 
+JSON                     2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
+Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-time-react-native        6 hrs 19 mins       █████████████░░░░░░░░░░░░   53.73 % 
-realtimechat-supabase    4 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   38.84 % 
-vscode-config            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-react-native-pnpm        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+realtimechat-supabase    4 hrs 34 mins       ██████████████░░░░░░░░░░░   54.34 % 
+time-react-native        3 hrs               █████████░░░░░░░░░░░░░░░░   35.65 % 
+vscode-config            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+react-native-pnpm        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Windows                  9 hrs 2 mins        ███████████████████░░░░░░   76.68 % 
-Linux                    2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/08/2025 18:52:22 UTC
+ Last Updated on 02/08/2025 18:49:50 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
