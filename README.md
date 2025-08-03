@@ -58,28 +58,27 @@ Sunday                   86 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               4 hrs 22 mins       █████████████░░░░░░░░░░░░   51.92 % 
-JSON                     2 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   34.51 % 
-Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               2 hrs 41 mins       ██████████████░░░░░░░░░░░   56.13 % 
+JSON                     2 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.04 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-realtimechat-supabase    4 hrs 34 mins       ██████████████░░░░░░░░░░░   54.34 % 
-time-react-native        3 hrs               █████████░░░░░░░░░░░░░░░░   35.65 % 
-vscode-config            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-react-native-pnpm        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+realtimechat-supabase    4 hrs 34 mins       ████████████████████████░   95.19 % 
+Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+time-react-native        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+vscode-config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/08/2025 18:49:50 UTC
+ Last Updated on 03/08/2025 18:50:02 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
