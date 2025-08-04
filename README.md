@@ -58,27 +58,22 @@ Sunday                   86 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               2 hrs 41 mins       ██████████████░░░░░░░░░░░   56.13 % 
-JSON                     2 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.04 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JSON                     32 mins             █████████████████████░░░░   82.76 % 
+TypeScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-realtimechat-supabase    4 hrs 34 mins       ████████████████████████░   95.19 % 
-Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-time-react-native        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-vscode-config            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+realtimechat-supabase    29 mins             ███████████████████░░░░░░   74.11 % 
+Unknown Project          10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
 
 💻 Operating System: 
-Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/08/2025 18:50:02 UTC
+ Last Updated on 04/08/2025 18:54:18 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
