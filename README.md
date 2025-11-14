@@ -75,7 +75,8 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,flutter,dart,php,figma,netlify,supabase,md,git,github,vscode,linux&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts,flutter,dart,php,figma,netlify,supabase,md,git,github,vscode,linux&perline=9)](https://skillicons.dev)
+![My Skills](https://skills.syvixor.com/api/icons?perline=15&i=figma,hoppscotch,filezilla)
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bert093&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
