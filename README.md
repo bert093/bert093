@@ -31,38 +31,26 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%207%20mins-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 716.2 kB Used in GitHub's Storage 
- > 
-> 🏆 41 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 37 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                447 commits         ██████████░░░░░░░░░░░░░░░   39.84 % 
-🌆 Daytime                286 commits         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-🌃 Evening                372 commits         ████████░░░░░░░░░░░░░░░░░   33.16 % 
-🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+🌞 Morning                447 commits         ██████████░░░░░░░░░░░░░░░   39.77 % 
+🌆 Daytime                288 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+🌃 Evening                372 commits         ████████░░░░░░░░░░░░░░░░░   33.10 % 
+🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Tuesday                  188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Wednesday                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-Thursday                 171 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Friday                   222 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Saturday                 166 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Sunday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Monday                   112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Tuesday                  188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Wednesday                137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Thursday                 171 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Friday                   222 commits         █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Saturday                 166 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Sunday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 ```
 
 
@@ -101,7 +89,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2026 08:56:07 UTC
+ Last Updated on 14/01/2026 09:19:18 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
