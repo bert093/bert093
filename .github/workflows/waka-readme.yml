@@ -6,6 +6,8 @@ on:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
+permissions:
+  contents: write
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
