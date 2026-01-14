@@ -31,24 +31,38 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 716.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 41 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 37 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                287 commits         █████████░░░░░░░░░░░░░░░░   36.19 % 
-🌆 Daytime                227 commits         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
-🌃 Evening                267 commits         ████████░░░░░░░░░░░░░░░░░   33.67 % 
-🌙 Night                  12 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+🌞 Morning                447 commits         ██████████░░░░░░░░░░░░░░░   39.84 % 
+🌆 Daytime                286 commits         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+🌃 Evening                372 commits         ████████░░░░░░░░░░░░░░░░░   33.16 % 
+🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Tuesday                  124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Thursday                 131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Friday                   135 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Saturday                 156 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Monday                   112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Tuesday                  188 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Wednesday                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Thursday                 171 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Friday                   222 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Saturday                 166 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Sunday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 ```
 
 
@@ -70,8 +84,24 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+**I Mostly Code in Dart** 
 
- Last Updated on 06/08/2025 18:53:22 UTC
+```text
+Dart                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+C++                      6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/01/2026 08:56:07 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
