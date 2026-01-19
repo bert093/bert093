@@ -31,7 +31,7 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -60,24 +60,24 @@ Sunday                   128 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               3 hrs 3 mins        ██████████████░░░░░░░░░░░   57.08 % 
-Dart                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-PHP                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+TypeScript               3 hrs 42 mins       ██████████████░░░░░░░░░░░   57.14 % 
+JSON                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Dart                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Markdown                 31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Personal-Nextjs-Project  1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   35.50 % 
-ProjectUAS-Data-Mining   1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-flutter_ecommerce        40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-bert093                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Project-Sistem-Pakar     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+ProjectUAS-Data-Mining   2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   33.37 % 
+Personal-Nextjs-Project  1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+flutter_ecommerce        40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+bert093                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Project-Sistem-Pakar     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 
 💻 Operating System: 
-Windows                  5 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -97,7 +97,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2026 01:27:01 UTC
+ Last Updated on 19/01/2026 01:25:22 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
