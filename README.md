@@ -60,24 +60,23 @@ Sunday                   128 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               12 hrs 44 mins      █████████████████░░░░░░░░   69.35 % 
-Python                   2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-JSON                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               9 hrs 59 mins       ████████████████░░░░░░░░░   64.90 % 
+Python                   2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+JSON                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProjectUAS-Data-Mining   12 hrs 34 mins      █████████████████░░░░░░░░   68.44 % 
-Personal-Nextjs-Project  3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-UAS Project              2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-testing-app              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-flutter_ecommerce        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+ProjectUAS-Data-Mining   11 hrs 32 mins      ███████████████████░░░░░░   74.93 % 
+UAS Project              2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Personal-Nextjs-Project  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+testing-app              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Windows                  18 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -97,7 +96,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2026 01:19:21 UTC
+ Last Updated on 25/01/2026 01:29:18 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
