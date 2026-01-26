@@ -60,23 +60,23 @@ Sunday                   128 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               9 hrs 59 mins       ████████████████░░░░░░░░░   64.90 % 
-Python                   2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-JSON                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TypeScript               9 hrs 20 mins       ████████████████░░░░░░░░░   65.49 % 
+Python                   2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProjectUAS-Data-Mining   11 hrs 32 mins      ███████████████████░░░░░░   74.93 % 
-UAS Project              2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Personal-Nextjs-Project  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-testing-app              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+ProjectUAS-Data-Mining   10 hrs 24 mins      ██████████████████░░░░░░░   72.95 % 
+UAS Project              2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Personal-Nextjs-Project  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+testing-app              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-Windows                  15 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -96,7 +96,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2026 01:29:18 UTC
+ Last Updated on 26/01/2026 01:27:40 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
