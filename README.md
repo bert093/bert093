@@ -36,21 +36,21 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                502 commits         ██████████░░░░░░░░░░░░░░░   41.80 % 
-🌆 Daytime                296 commits         ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-🌃 Evening                386 commits         ████████░░░░░░░░░░░░░░░░░   32.14 % 
-🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+🌞 Morning                504 commits         ██████████░░░░░░░░░░░░░░░   41.90 % 
+🌆 Daytime                296 commits         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+🌃 Evening                386 commits         ████████░░░░░░░░░░░░░░░░░   32.09 % 
+🌙 Night                  17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Tuesday                  215 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Wednesday                141 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Thursday                 206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Friday                   224 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Saturday                 171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Sunday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Monday                   116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Tuesday                  215 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Wednesday                143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Thursday                 206 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Friday                   224 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Saturday                 171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Sunday                   128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 ```
 
 
@@ -60,23 +60,22 @@ Sunday                   128 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               6 hrs 49 mins       ████████████████░░░░░░░░░   62.36 % 
-Python                   2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Python                   2 hrs 31 mins       ████████████░░░░░░░░░░░░░   47.99 % 
+TypeScript               2 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.64 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  5 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProjectUAS-Data-Mining   7 hrs 4 mins        ████████████████░░░░░░░░░   64.69 % 
-UAS Project              2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
-Personal-Nextjs-Project  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-testing-app              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+UAS Project              2 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.46 % 
+ProjectUAS-Data-Mining   1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+Personal-Nextjs-Project  1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
 
 💻 Operating System: 
-Windows                  10 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -96,7 +95,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2026 01:26:48 UTC
+ Last Updated on 28/01/2026 01:23:13 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
