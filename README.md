@@ -31,26 +31,26 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2038%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                540 commits         ██████████░░░░░░░░░░░░░░░   41.60 % 
-🌆 Daytime                324 commits         ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-🌃 Evening                416 commits         ████████░░░░░░░░░░░░░░░░░   32.05 % 
-🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+🌞 Morning                542 commits         ██████████░░░░░░░░░░░░░░░   41.69 % 
+🌆 Daytime                324 commits         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+🌃 Evening                416 commits         ████████░░░░░░░░░░░░░░░░░   32.00 % 
+🌙 Night                  18 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Tuesday                  226 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Wednesday                152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Thursday                 217 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Friday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Saturday                 180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Sunday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Monday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Tuesday                  226 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Wednesday                152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Thursday                 219 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Friday                   248 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Saturday                 180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Sunday                   131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
 ```
 
 
@@ -60,24 +60,24 @@ Sunday                   131 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               14 hrs 36 mins      ██████████████████░░░░░░░   72.58 % 
-Markdown                 2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-CSS                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+TypeScript               16 hrs 17 mins      ██████████████████░░░░░░░   72.05 % 
+Markdown                 3 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  22 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dikbudntb-projectmagang  15 hrs 21 mins      ███████████████████░░░░░░   76.34 % 
-dikbudntb-project        3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-vscode-config            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-project-testing          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+dikbudntb-projectmagang  18 hrs 29 mins      ████████████████████░░░░░   81.73 % 
+dikbudntb-project        3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+project-testing          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+vscode-config            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+vite-testing             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Windows                  20 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -97,7 +97,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 05/02/2026 01:45:51 UTC
+ Last Updated on 06/02/2026 01:45:10 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
