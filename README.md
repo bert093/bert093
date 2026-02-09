@@ -60,24 +60,24 @@ Sunday                   133 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               12 hrs 24 mins      ████████████████░░░░░░░░░   63.98 % 
-Markdown                 3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-JSON                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-CSS                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+TypeScript               11 hrs 56 mins      ████████████████░░░░░░░░░   63.46 % 
+Markdown                 3 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+CSS                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 49 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dikbudntb-projectmagang  17 hrs 27 mins      ██████████████████████░░░   89.97 % 
-vscode-config            47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-project-testing          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-nologo-vscode            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-nvim                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+dikbudntb-projectmagang  16 hrs 52 mins      ██████████████████████░░░   89.66 % 
+vscode-config            47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+project-testing          34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+nologo-vscode            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+nvim                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  19 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -97,7 +97,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2026 02:09:05 UTC
+ Last Updated on 09/02/2026 01:52:58 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
