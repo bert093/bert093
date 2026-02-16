@@ -36,21 +36,21 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                599 commits         ███████████░░░░░░░░░░░░░░   42.24 % 
-🌆 Daytime                349 commits         ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-🌃 Evening                451 commits         ████████░░░░░░░░░░░░░░░░░   31.81 % 
+🌞 Morning                601 commits         ███████████░░░░░░░░░░░░░░   42.32 % 
+🌆 Daytime                349 commits         ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+🌃 Evening                451 commits         ████████░░░░░░░░░░░░░░░░░   31.76 % 
 🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Tuesday                  248 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Wednesday                173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Thursday                 256 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-Friday                   264 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Saturday                 188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Sunday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Monday                   157 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Tuesday                  248 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Wednesday                173 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Thursday                 256 commits         █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Friday                   264 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Saturday                 188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Sunday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 ```
 
 
@@ -97,7 +97,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2026 01:53:53 UTC
+ Last Updated on 16/02/2026 01:50:13 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
