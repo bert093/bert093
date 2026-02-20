@@ -31,26 +31,26 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2038%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                615 commits         ███████████░░░░░░░░░░░░░░   42.50 % 
-🌆 Daytime                353 commits         ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-🌃 Evening                460 commits         ████████░░░░░░░░░░░░░░░░░   31.79 % 
-🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+🌞 Morning                616 commits         ███████████░░░░░░░░░░░░░░   42.31 % 
+🌆 Daytime                355 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌃 Evening                466 commits         ████████░░░░░░░░░░░░░░░░░   32.01 % 
+🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Tuesday                  250 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Wednesday                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Thursday                 259 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Friday                   264 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Sunday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Monday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Tuesday                  250 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Wednesday                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Thursday                 267 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Friday                   265 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Sunday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 ```
 
 
@@ -60,21 +60,22 @@ Sunday                   134 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               12 hrs 16 mins      ████████████████████████░   96.87 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               9 hrs 40 mins       ██████████████████████░░░   89.52 % 
+JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dikbudntb-projectmagang  12 hrs 1 min        ████████████████████████░   94.84 % 
-Personal-Nextjs-Project  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+dikbudntb-projectmagang  8 hrs 34 mins       ████████████████████░░░░░   79.35 % 
+Personal-Nextjs-Project  2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+next-js-dynamic-routing-e1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  12 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -94,7 +95,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2026 01:51:03 UTC
+ Last Updated on 20/02/2026 01:46:52 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
