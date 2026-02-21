@@ -31,26 +31,26 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2010%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                616 commits         ███████████░░░░░░░░░░░░░░   42.31 % 
-🌆 Daytime                355 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-🌃 Evening                466 commits         ████████░░░░░░░░░░░░░░░░░   32.01 % 
+🌞 Morning                618 commits         ███████████░░░░░░░░░░░░░░   42.33 % 
+🌆 Daytime                356 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌃 Evening                467 commits         ████████░░░░░░░░░░░░░░░░░   31.99 % 
 🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Tuesday                  250 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Wednesday                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Thursday                 267 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Friday                   265 commits         █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
-Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Sunday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Monday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Tuesday                  250 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Wednesday                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Thursday                 267 commits         █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Friday                   269 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Sunday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 ```
 
 
@@ -60,22 +60,22 @@ Sunday                   134 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               9 hrs 40 mins       ██████████████████████░░░   89.52 % 
-JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+TypeScript               9 hrs 57 mins       ██████████████████████░░░   89.80 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 5 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dikbudntb-projectmagang  8 hrs 34 mins       ████████████████████░░░░░   79.35 % 
-Personal-Nextjs-Project  2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-next-js-dynamic-routing-e1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+dikbudntb-projectmagang  8 hrs 50 mins       ████████████████████░░░░░   79.76 % 
+Personal-Nextjs-Project  2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+next-js-dynamic-routing-e1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  10 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -95,7 +95,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2026 01:46:52 UTC
+ Last Updated on 21/02/2026 01:42:27 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
