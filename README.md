@@ -36,21 +36,21 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                624 commits         ███████████░░░░░░░░░░░░░░   42.48 % 
-🌆 Daytime                358 commits         ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-🌃 Evening                468 commits         ████████░░░░░░░░░░░░░░░░░   31.86 % 
-🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+🌞 Morning                624 commits         ███████████░░░░░░░░░░░░░░   42.31 % 
+🌆 Daytime                358 commits         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+🌃 Evening                471 commits         ████████░░░░░░░░░░░░░░░░░   31.93 % 
+🌙 Night                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Tuesday                  256 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Wednesday                181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Thursday                 267 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Friday                   269 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Sunday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Monday                   167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Tuesday                  256 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Wednesday                184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Thursday                 270 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Friday                   269 commits         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Sunday                   134 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 ```
 
 
@@ -60,22 +60,22 @@ Sunday                   134 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               10 hrs 49 mins      ███████████████████████░░   90.76 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TypeScript               11 hrs 53 mins      ███████████████████████░░   91.31 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dikbudntb-projectmagang  9 hrs 40 mins       ████████████████████░░░░░   81.18 % 
-Personal-Nextjs-Project  2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-next-js-dynamic-routing-e1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+dikbudntb-projectmagang  11 hrs 14 mins      ██████████████████████░░░   86.31 % 
+Personal-Nextjs-Project  1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+next-js-dynamic-routing-e1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Windows                  11 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -95,7 +95,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2026 01:50:55 UTC
+ Last Updated on 26/02/2026 01:46:31 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
