@@ -60,21 +60,19 @@ Sunday                   137 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               4 hrs 59 mins       ██████████████████████░░░   86.02 % 
-Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+TypeScript               2 hrs 6 mins        ████████████████████░░░░░   78.50 % 
+Markdown                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dikbudntb-projectmagang  5 hrs 48 mins       █████████████████████████   100.00 % 
+dikbudntb-projectmagang  2 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 41 mins       ████████████████████████░   97.92 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Linux                    2 hrs 33 mins       ████████████████████████░   95.49 % 
+Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -94,7 +92,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2026 01:48:43 UTC
+ Last Updated on 07/03/2026 01:30:40 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
