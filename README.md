@@ -60,19 +60,18 @@ Sunday                   137 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               2 hrs 6 mins        ████████████████████░░░░░   78.50 % 
-Markdown                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               2 hrs 6 mins        █████████████████████░░░░   82.12 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dikbudntb-projectmagang  2 hrs 41 mins       █████████████████████████   100.00 % 
+dikbudntb-projectmagang  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 33 mins       ████████████████████████░   95.49 % 
-Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Linux                    2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -92,7 +91,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2026 01:47:40 UTC
+ Last Updated on 09/03/2026 01:49:32 UTC
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
