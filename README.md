@@ -93,7 +93,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
-![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=reactjs,nextjs,tailwindcss,html,css3,javascript,typescript,netlify,supabase,docker,dokploy,git,github,gitlab,ubuntu,debian,archlinux,figma,hoppscotch,filezilla) <!-- https://github.com/syvixor/skills-icons -->
+![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=reactjs,nextjs,tailwindcss,html,css3,javascript,typescript,netlify,supabase,docker,dokploy,git,github,gitlab,ubuntu,debian,archlinux,tailscale,figma,hoppscotch,filezilla) <!-- https://github.com/syvixor/skills-icons -->
 
 #### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bert093&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
