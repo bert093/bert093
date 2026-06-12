@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule updates (Run everyday at 8:00 AM)
+  schedule: [{cron: "0 8 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -31,7 +31,6 @@ jobs:
           base_indepth: yes
           config_timezone: Asia/Singapore
           plugin_calendar: yes
-          plugin_calendar_limit: 1
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_indepth: yes
