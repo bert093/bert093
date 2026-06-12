@@ -1,4 +1,4 @@
-name: Update GitHub Profile Trophy
+name: GitHub Profile Trophy
 
 on:
   workflow_dispatch:
@@ -15,13 +15,18 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+
+      - name: Set up Deno
+        uses: denoland/setup-deno@v2
+        with:
+          cache: true
 
       - name: Generate trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: bert093
-          output_path: trophy.svg
+          file: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: default
 
