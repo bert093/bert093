@@ -11,6 +11,8 @@
 
 I'm a Computer Science student at Bumigora University, indonesia, with a strong passion for both technology and music. I enjoy exploring new things, especially in software development, open-source projects, and digital music creation.<br>GitHub is where I share my projects, learn from the community, and document my journey in tech.
 
+![Metrics](https://metrics.lecoq.io/bert093?template=classic&isocalendar=1&languages=1&lines=1&stars=1&followup=1&calendar=1&achievements=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=cmake%2C%20c%2C%20c%2B%2B%2C%20swift%2C%20kotlin%2C%20autohotkey%2C%20objective-c&languages.limit=8&languages.other=false&languages.colors=github&languages.aliases=javascript%3AJS%2C%20typescript%3ATS&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&calendar=false&calendar.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&gists=false&config.timezone=Asia%2FSingapore)
+
 
 #### 🌐 Socials:
 <a href="https://discord.gg/HDhnFj22RK">
@@ -29,68 +31,6 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    <br></br>
 </a>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2058%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                631 commits         ██████████░░░░░░░░░░░░░░░   41.87 % 
-🌆 Daytime                371 commits         ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-🌃 Evening                482 commits         ████████░░░░░░░░░░░░░░░░░   31.98 % 
-🌙 Night                  23 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Tuesday                  260 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Wednesday                184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Thursday                 276 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Friday                   276 commits         █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Saturday                 198 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Sunday                   137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Dart                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-C++                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/bert093/bert093/main/assets/bar_graph.png)
-
-
- Last Updated on 14/04/2026 02:07:13 UTC
-<!--END_SECTION:waka-->
 
 #### 💻 Tech Stack:
 ![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=reactjs,nextjs,tailwindcss,html,css3,javascript,typescript,netlify,supabase,docker,dokploy,git,github,gitlab,ubuntu,debian,archlinux,tailscale,figma,hoppscotch,filezilla) <!-- https://github.com/syvixor/skills-icons -->
