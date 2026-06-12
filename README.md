@@ -32,18 +32,18 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
    <br></br>
 </a>
 
-#### 💻 Tech Stack:
+#### Tech Stack:
 ![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=reactjs,nextjs,tailwindcss,html,css3,javascript,typescript,netlify,supabase,docker,dokploy,git,github,gitlab,ubuntu,debian,archlinux,tailscale,figma,hoppscotch,filezilla) <!-- https://github.com/syvixor/skills-icons -->
 
-#### 📊 GitHub Stats:
+#### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bert093&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bert093&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bert093&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-#### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bert093&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+#### GitHub Trophies
+## GitHub Profile Trophy
 
-#### 🔝 Top Contributed Repo
+![GitHub Profile Trophy](./trophy.svg)
+
+#### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bert093&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
