@@ -52,7 +52,7 @@ jobs:
           plugin_languages_ignored: cmake, c, c++, swift, kotlin, autohotkey, objective-c
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 180
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_lines: yes
