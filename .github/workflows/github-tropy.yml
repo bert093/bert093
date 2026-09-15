@@ -16,6 +16,6 @@ jobs:
       - name: Generate trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          user: bert093
-          filename: trophy.svg
+          username: bert093
+          file: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
