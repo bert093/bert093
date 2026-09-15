@@ -43,7 +43,7 @@ I'm a Computer Science student at Bumigora University, indonesia, with a strong 
 
 #### GitHub Trophies
 
-![GitHub Profile Trophy](./trophy.svg)
+<img src="https://raw.githubusercontent.com/bert093/trophy.svg">
 
 #### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bert093&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)

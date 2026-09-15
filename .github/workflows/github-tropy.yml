@@ -12,11 +12,10 @@ permissions:
 jobs:
   generate-trophy:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: bert093
-          file: trophy.svg
+          user: bert093
+          filename: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
