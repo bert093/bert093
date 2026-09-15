@@ -11,7 +11,9 @@
 
 I'm a Computer Science student at Bumigora University, indonesia, with a strong passion for both technology and music. I enjoy exploring new things, especially in software development, open-source projects, and digital music creation.<br>GitHub is where I share my projects, learn from the community, and document my journey in tech.
 
-![Metrics](https://metrics.lecoq.io/bert093?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FSingapore)
+<img width="70%" alt="Metrics Profile" src="https://raw.githubusercontent.com/bert093/bert093/5b534d6db981b7cfb65973588f3ec300c6691429/profile.svg">
+
+<!--![Metrics](https://metrics.lecoq.io/bert093?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FSingapore)-->
 
 #### 🌐 Socials:
 <a href="https://discord.gg/HDhnFj22RK">
