@@ -9,7 +9,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bhyihjspwh4v0i95mpgy21teo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=ff80ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=bhyihjspwh4v0i95mpgy21teo&redirect=true)
 
-I'm a Computer Science student at Bumigora University, indonesia, with a strong passion for both technology and music. I enjoy exploring new things, especially in software development, open-source projects, and digital music creation.<br>GitHub is where I share my projects, learn from the community, and document my journey in tech.
+I'm a Computer Science student at Bumigora University, Indonesia, who enjoys building/exploring tech. My interests include software development, and open-source projects.
+GitHub is a place for my projects, experiments, and everything I learn along the way.
+In my free time or while studying, I usually listen to a few songs to stay focused.
 
 <img width="65%" alt="Metrics Profile" src="https://raw.githubusercontent.com/bert093/bert093/main/profile.svg">
 
