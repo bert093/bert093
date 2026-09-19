@@ -37,15 +37,3 @@ In my free time or while studying, I usually listen to a few songs to stay focus
 
 #### Tech Stack:
 ![My Skills](https://skills.syvixor.com/api/icons?perline=10&i=reactjs,nextjs,tailwindcss,html,css3,javascript,typescript,netlify,supabase,docker,dokploy,git,github,gitlab,ubuntu,debian,archlinux,tailscale,figma,hoppscotch,filezilla) <!-- https://github.com/syvixor/skills-icons -->
-
-#### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bert093&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bert093&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bert093&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-#### GitHub Trophies
-
-<img width="70%" alt="Github Trophy" src="https://raw.githubusercontent.com/bert093/bert093/main/trophy.svg">
-
-#### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bert093&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
