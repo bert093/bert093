@@ -26,6 +26,7 @@ jobs:
           username: bert093
           file: trophy.svg
           token: ${{ secrets.TROPHY_TOKEN }}
+          theme: tokyonight
 
       - name: Commit trophy SVG
         run: |
