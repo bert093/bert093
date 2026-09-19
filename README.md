@@ -45,7 +45,7 @@ In my free time or while studying, I usually listen to a few songs to stay focus
 
 #### GitHub Trophies
 
-<img width="70%" alt="Github Trophy" src="https://raw.githubusercontent.com/bert093/bert093/main/profile.svg">
+<img width="70%" alt="Github Trophy" src="https://raw.githubusercontent.com/bert093/bert093/main/trophy.svg">
 
 #### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bert093&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
